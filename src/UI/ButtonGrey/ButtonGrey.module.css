@@ -1,0 +1,11 @@
+.buttonGrey {
+  padding: 3px 10px;
+  background-color: transparent;
+  border: var(--border);
+  border-radius: 3px;
+  font-family: var(--mon-ff);
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+  cursor: pointer;
+}
