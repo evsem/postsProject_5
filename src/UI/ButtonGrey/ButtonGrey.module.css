@@ -1,9 +1,9 @@
 .buttonGrey {
   padding: 3px 10px;
   background-color: transparent;
-  border: var(--border);
+  border: 2px solid grey;
   border-radius: 3px;
-  font-family: var(--mon-ff);
+  font-family: 'Montserrat';
   font-size: 18px;
   font-weight: 400;
   color: black;
